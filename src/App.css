@@ -1,0 +1,25 @@
+.ret{
+  height: 744px;
+  top: -347px; 
+  position: absolute;
+  left: 85px;
+}
+.App{
+  position: relative;
+  }
+.login{
+  position: absolute;
+}
+.if{
+  position: absolute;
+  left: 1180px;
+  top: -340px;
+  
+}
+.c{
+  position: absolute;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+  width: 50px;
+  
+  left: 303px;
+}
